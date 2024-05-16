@@ -1,0 +1,42 @@
+C:\Kurs\cviko\bin\Debug\net8.0\cviko.exe
+C:\Kurs\cviko\bin\Debug\net8.0\cviko.deps.json
+C:\Kurs\cviko\bin\Debug\net8.0\cviko.runtimeconfig.json
+C:\Kurs\cviko\bin\Debug\net8.0\cviko.dll
+C:\Kurs\cviko\bin\Debug\net8.0\cviko.pdb
+C:\Kurs\cviko\obj\Debug\net8.0\cviko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kurs\cviko\obj\Debug\net8.0\cviko.AssemblyInfoInputs.cache
+C:\Kurs\cviko\obj\Debug\net8.0\cviko.AssemblyInfo.cs
+C:\Kurs\cviko\obj\Debug\net8.0\cviko.csproj.CoreCompileInputs.cache
+C:\Kurs\cviko\obj\Debug\net8.0\cviko.dll
+C:\Kurs\cviko\obj\Debug\net8.0\refint\cviko.dll
+C:\Kurs\cviko\obj\Debug\net8.0\cviko.pdb
+C:\Kurs\cviko\obj\Debug\net8.0\cviko.genruntimeconfig.cache
+C:\Kurs\cviko\obj\Debug\net8.0\ref\cviko.dll
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\bin\Debug\net8.0\cviko.exe
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\bin\Debug\net8.0\cviko.deps.json
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\bin\Debug\net8.0\cviko.runtimeconfig.json
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\bin\Debug\net8.0\cviko.dll
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\bin\Debug\net8.0\cviko.pdb
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\obj\Debug\net8.0\cviko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\obj\Debug\net8.0\cviko.AssemblyInfoInputs.cache
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\obj\Debug\net8.0\cviko.AssemblyInfo.cs
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\obj\Debug\net8.0\cviko.csproj.CoreCompileInputs.cache
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\obj\Debug\net8.0\cviko.dll
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\obj\Debug\net8.0\refint\cviko.dll
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\obj\Debug\net8.0\cviko.pdb
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\obj\Debug\net8.0\cviko.genruntimeconfig.cache
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko\obj\Debug\net8.0\ref\cviko.dll
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\bin\Debug\net8.0\cviko.exe
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\bin\Debug\net8.0\cviko.deps.json
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\bin\Debug\net8.0\cviko.runtimeconfig.json
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\bin\Debug\net8.0\cviko.dll
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\bin\Debug\net8.0\cviko.pdb
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\obj\Debug\net8.0\cviko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\obj\Debug\net8.0\cviko.AssemblyInfoInputs.cache
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\obj\Debug\net8.0\cviko.AssemblyInfo.cs
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\obj\Debug\net8.0\cviko.csproj.CoreCompileInputs.cache
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\obj\Debug\net8.0\cviko.dll
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\obj\Debug\net8.0\refint\cviko.dll
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\obj\Debug\net8.0\cviko.pdb
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\obj\Debug\net8.0\cviko.genruntimeconfig.cache
+C:\Users\michk\OneDrive\Dokumenty\CSHARP - OOP\cviko Vlaky upraveno\obj\Debug\net8.0\ref\cviko.dll
